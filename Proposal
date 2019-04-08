@@ -1,1 +1,295 @@
+Contents
+Chapter 1	2
+1.1	Introduction	2
+1.2	Justification	3
+1.2.1	Background of the project	3
+1.2.2	Problem statement	3
+1.3	Description of the project	4
+1.3.1	Features of the project	4
+1.4	Overview of the project	5
+Chapter 2	6
+2.1	Scope of the project	6
+2.2	Limitation of the project	6
+2.3	Aim of the project	6
+2.4	Objective of the project	6
+2.5	Overview of the scope	7
+Chapter 3	7
+3.1	Description of the methodology	7
+3.2	 Design Pattern	8
+3.3	Architecture	8
+Chapter 4	9
+4.1	About WBS (Work breakdown structure)	9
+4.2	Milestone	11
+Chapter 5	13
+5.1	Risk Management	13
+5.1.1	Identification of Risk	14
+Chapter 6	14
+6.1	Configuration Management	14
+
+
+
+
+
+Chapter 1
+
+
+1.1	 Introduction
+
+Nepal is an emerging country in the aspect of sports. Many profitable source is willing to boom the business by providing the infrastructure such as futsal with adequate facilities. Still providing infrastructure with adequate facilities does not help futsal to overcome the problems regarding to booking. Likewise, the futsal are still struggling to make good revenue from their business respectively. 
+Ground booking is an android application, which handles all the booking related to futsal. The application provide the information about the grounds, sport news, events and recommend the best futsal according to the user’s choice. This makes our application more user-friendly and obliging. Advertisement is available in the application in order to promote the business too. Therefore, digital advertisement help the business to gain more customer through booking system. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.2	 Justification of the project
+
+Ground booking system mainly focus on the growth of the business in context of futsal. Many futsal loss there customers due to lack of advertisement including absence of online booking system. Even, there is the absence of applications, which contain all the details about the futsal including its name, location, price and other facilities. Thus for those information, users have to visit the respective grounds to accumulate the information about the related futsal as we discuss in the above point. Therefore, in my opinion, developing an android application will be more beneficial for both users and futsal owners to overcome all the problems respectively. 
+
+1.2.1	Background of the project
+
+Application such as futsal booking system is the frequently usable program, which bring huge initiative for the users. In order to facilitate the futsal business and delivering genuine sports news, we deliver the entire article from the trusted source such as CNNSPORTS, BBCSPORT and many more through API (Application Programming Interface). Likewise, the application stipulate the valid information about the grounds including users by following up various methodology, which will cover in the upcoming topic. Moreover, to perform this project, we use firebase as a server side for various reasons. Some of them are offline capabilities, social login, email and phone verification and many more. Thus, it leads the application more reliable and perform the desirable outcomes.
+
+1.2.2	Problem statement
+
+There are numerous futsal which are worthy but driven down because of misleading marketing and lack of delivering information. It is offended to see such result in the present time. There are many possibilities that cause such issue and some of them are
+
+i.	Unavailable of online payment gateway: Our application do not have online payment gateway so for booking and reservation, our users must have to use the offline booking services respectively.
+ 
+ii.	Fraud: In an application, there may be a high possibility of having a certain portion of fake users who intend to misuse the information and use the reservation in order to swindle the people or the related grounds owner. 
+
+iii.	Less marketing and advertisement: Advertisement and marketing plays imperative role for both application owners and users in order to ranked in the trending section of the application store. The application will not be worthy unless and until it become well known and usable by the users which can be happen by the use of several marketing and advertisement strategy. 
+
+
+1.3	Description of the project
+
+The online web portal application is being more popular among the smart phone users. The website goals is to provide the elegant user interface to the users including to the desire operations like booking, checking out the availability for booking period and many more.
+
+
+1.3.1	Features of the project
+
+The website is develop by following appropriate design pattern and suitable methodology in order to address all the required functionality including elegant design (user interface). Comprehending all the required of the users, the website have following features which is listed below;
+i.	The website provides the detail understanding and knowledge of the relevant ground including cost, available time, overview of the grounds via pictures or videos and many more.
+ii.	Users can easily create an account by signing up through Facebook and Google log in using firebase web services.
+iii.	Data are stores in DBMS with high level of security via using encryption method.
+iv.	Users can participate in the upcoming event through the website forms. Example: Futsal tournament and other events.
+v.	Online and offline booking can be done to reserve the ground.
+vi.	Users can take participations in Quiz in order to maintain in the top position for gifts and free futsal pass tickets.
+
+
+1.4	Overview of the project
+
+The website in an online web application, which provides the information about the grounds for cricket and futsal. It aims to make the booking system more relevant and easy to users in order to boom the business growth by online reservation process. Moreover, the users can check out the best grounds nearby them by allocated budget. Thus, recommendation of the grounds via their budget will the effective way provide the users satisfaction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 2
+
+
+2.1	Scope of the project
+
+The project built up the system in order to makes the ground reservation more reliable and efficient. In order to boom and promoting the business, the website particular focuses on these aspects. Likewise, the users can have a good time with our services in the way of promoting the business and recommendation of the nearby ground by the help of search and filter features. 
+
+2.2	Limitation of the project
+
+Our web application totally based on booking and reservation of the ground, which includes cricket and futsal only. Therefore, we do not solely focus on other aspect such as other game court i.e. badminton or table tennis. However, we have a data about those grounds too but do not want to make our initial project more complex and hard to use. We have given huge priority to the end users and targeting them and providing services in three different district i.e. Kathmandu, Bhaktapur and Lalitpur only. Moreover, offline booking done by the users must be in time to pay the amount in order to confirm the booking status of the ground. 
+
+2.3	Aim of the project
+
+The main objective of the website is to provide the genuine information to the users and reduce the complexity for reservation process. 
+
+2.4	Objective of the project
+
+
+
+
+
+
+
+2.5	Overview of the scope
+
+The problem regarding to finding out the genuine result about the futsal and cricket ground issues have been resolved via verification step. Verification of the related futsal and cricket camp must have to submit their genuine document in order to make the information more trustable and reliable. The website do not ads fake marketing or stores the data for own purposes. 
+The information via the survey and users performance during the use of features help to identify and analysis the current situation of the sport related to economy and fantasy. Which further helps to growth the sports in our country. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 3
+
+
+3.1	Description of the methodology
+
+Ground booking system is the online reservation and portal web application.  The web app must be robust and efficient in order to update and bring quality of services for the users. Thus, for this development phase, agile methodology is the suitable one. Agile is the process by which team can manage by breaking it up into several stages and involving constant collaboration with stakeholders and continues improvement and iteration at every stage. Likewise, Agile methodology begins with clients describing how the end product will be used and what problem it will solved. 
+
+3.2	 Design Pattern
+
+Design pattern play a significant roles in the development phase. They help us recurring design problems and makes the development more robust. Design patterns do not solve problem themselves they major play a part in solve the problems. In order to accomplish the task, we follow the MVC design pattern. Here, MVC stand for Model-View-Controller and they defined as
+i.	Model: It represent object carrying data. It can also have logic to update controller if its data changes.
+ii.	View: It represents the visualization of the data that models contains.
+iii.	Controller: It acts both model and view. It controls the data flow into model object and updates the view whenever the data changes. It keeps view and model separate.
+
+The main reason behind choosing MVC as a design pattern because of the following reason and they are
+i.	Using MVC design pattern allows the majority of Android developers to understand code.
+ii.	It will helps to make a clean code, which further be helpful to reuse the code. Example: exporting application template as a library so that other developer can use it in their project respectively.
+iii.	Faster development phase
+
+
+
+
+
+3.3	Architecture 
+
+Software architecture is the structure of the structures of an information system which consisting of entities and their externally visible properties and the relation among them. It consists of One Tier, Two Tier, Three Tier and N-Tier architecture. Here, tier referred as “layer”. Thus, it consists of three layers in the application namely Presentation layer, Business layer and Data layer. Thus, among all, three-tier architecture is the appropriate one for our mobile-based development.
+
+ 
+
+
+i.	Presentation layer: It is also known as client layer. It is so because we can see this layer when we use a software as a part of user interface. Likewise, the presentation layer play a significant role by giving a functionality to communicate with application layer. This layer passes the information which is given by the users in terms of several input methods such as keyboard, mouse, joystick and many more. 
+
+ii.	Application layer: It is also known as logic layer. The main role of the application layer is to interact with Database layer and send the Presentation layer correspondingly. Thus, it helps to controls an application functionality by performing detailed processing. Moreover, it play the role as a mediator between the presentation layer and database layer.
+
+iii.	Data layer: Data are stored in this layer. To retrieve the data, application layer communicates with the database layer. Thus, many query and CRUD operation can be carried out within the help of this layer.
+
+
+Chapter 4
+
+4.1	About WBS (Work breakdown structure)
+
+Work breakdown structure is the best practice that helps the project by splitting the team works into manageable section. According to the Project Management Body of Knowledge (PMBOK) defines the work breakdown structure as a “deliverable oriented hierarchical decomposition of the work to be executed by the project team”
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2	Milestone
+
+Milestone is the specified time for a project lifecycle. It helps to measure the progress of a project towards it ultimate goals. Likewise, it is consider as a best way to observe, major and monitor the progress and performance of a project.
+ 
+
+
+
+
+
+
+
+Chapter 5
+
+5.1	Risk Management
+
+Risk management ascertain as the essential component of good management and governance. Thus, it is the iterative process, which helps to analyses and identify the possible risk of the project. Those risks could be compromise by following various several tools and resources in order to reduce the impact in the program. Likewise, risk management can be settle down by using three different section. They are
+i.	Risk likelihood
+ii.	Risk consequences
+iii.	Impact due to the occurrence of the risk
+
+
+Likelihood	Point
+Low 	1
+Medium	2
+High	3
+
+Consequences	Value
+Very Low	1
+Low	2
+Medium	3
+High	4
+Very High	5
+
+
+By the above points, the impact can be calculate with the following sum. i.e. 
+No. of Impact = Risk likelihood * Risk Consequences
+
+Moreover, the risk factor must be identify in order to reduce the impact and bring up the best application product as the need of the users. 
+
+
+
+
+5.1.1	Identification of Risk 
+
+The below risk are categorize that may occur in the project.
+i.	Extend in project schedule
+ii.	Slowdown performance of an application
+iii.	Complex application design and less user friendly
+iv.	Requirement changes
+v.	Lack of content and security
+
+5.1.2	Risk Management Table
+
+Risk	Likelihood	Consequence	Impact	Mitigation
+Extend in Scheduling	2	3	6	Proper scheduling and making sure that task won’t exceed its deadline. 
+Requirement Inflation/Changes	3	5	15	Meeting the stakeholder and getting their opinion and making changes as per them.
+Specification Mismatch/Breakdown	2	5	10	Proper communication & analysis of stakeholders
+Hardware Damage	1	3	3	Replacing Dated Hardware, Proper Monitoring, Backup Hardware and making sure that someone is there to fix if anything goes wrong
+Power Shortage/Load shedding	3	2	6	Backup Power Supply
+Change of rules/policy	2	5	10	Making the system as ,modular as possible so changes can be made quick
+Natural Disasters	2	4	8	Making sure that safety is there and the working environment is away from places which are more prone to environmental hazards
+Bad Working Environment	3	2	6	Making sure that working environment is best suited for productiveness 
+Chapter 6
+
+6.1	Configuration Management
+
+
 
